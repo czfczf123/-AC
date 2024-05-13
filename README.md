@@ -1,5 +1,6 @@
 
-
+项目是从下面这个项目开始改的，这就是用crossattension来做音色的代码。
+模型文件在tts/model/vits里面，训练文件是train_mytts.py
 ## 🐸Coqui.ai News
 - 📣 Coqui Studio API is landed on 🐸TTS. You can use the studio voices in combination with 🐸TTS models. [Example](https://github.com/coqui-ai/TTS/edit/dev/README.md#-python-api)
 - 📣 Voice generation with prompts - **Prompt to Voice** - is live on Coqui.ai!! [Blog Post](https://coqui.ai/blog/tts/prompt-to-voice)
